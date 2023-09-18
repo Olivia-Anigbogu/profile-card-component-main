@@ -68,7 +68,9 @@ span {
 }
 .location {
   color: hsl(0, 0%, 59%);
+  /* border-bottom: 1px solid hsl(0, 0%, 59%); */
 }
+
 .stats {
   display: flex;
   justify-content: space-around;
