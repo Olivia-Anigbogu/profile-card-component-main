@@ -69,7 +69,7 @@ span {
 .location {
   color: hsl(0, 0%, 59%);
   padding-bottom: 25px;
-  border-bottom: 1px thin hsl(0, 0%, 59%);
+  border-bottom: 1px solid hsl(0, 0%, 59%);
 }
 
 .stats {
